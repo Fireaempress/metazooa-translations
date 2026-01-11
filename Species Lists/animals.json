@@ -13,7 +13,8 @@
     "name_ko": "말미잘",
     "name_de": "Seeanemone",
     "name_uk": "анемона",
-    "name_tr": "deniz anemonu"
+    "name_tr": "deniz anemonu",
+    "name_cs": "sasanka"
   },
   {
     "nodeId": 7022,
@@ -29,7 +30,8 @@
     "name_ko": "대벌레",
     "name_de": "Indische Stabschrecke",
     "name_uk": "паличник",
-    "name_tr": "dal böceği"
+    "name_tr": "dal böceği",
+    "name_cs": "strašilka"
   },
   {
     "nodeId": 7051,
@@ -45,7 +47,8 @@
     "name_ko": "반딧불이",
     "name_de": "Genji-Leuchtkäfer",
     "name_uk": "світлячок",
-    "name_tr": "ateş böceği"
+    "name_tr": "ateş böceği",
+    "name_cs": "světluška"
   },
   {
     "nodeId": 7091,
@@ -61,7 +64,8 @@
     "name_ko": "누에나방",
     "name_de": "Seidenspinner",
     "name_uk": "шовкопряд",
-    "name_tr": "ipek böceği"
+    "name_tr": "ipek böceği",
+    "name_cs": "bourec morušový"
   },
   {
     "nodeId": 7159,
@@ -77,7 +81,8 @@
     "name_ko": "모기",
     "name_de": "Ägyptische Tigermücke",
     "name_uk": "комар",
-    "name_tr": "sivrisinek"
+    "name_tr": "sivrisinek",
+    "name_cs": "komár"
   },
   {
     "nodeId": 7227,
@@ -93,7 +98,8 @@
     "name_ko": "초파리",
     "name_de": "Fruchtfliege",
     "name_uk": "плодова мушка",
-    "name_tr": "meyve sineği"
+    "name_tr": "meyve sineği",
+    "name_cs": "octomilka"
   },
   {
     "nodeId": 7370,
@@ -109,7 +115,8 @@
     "name_ko": "집파리",
     "name_de": "Stubenfliege",
     "name_uk": "муха",
-    "name_tr": "karasinek"
+    "name_tr": "karasinek",
+    "name_cs": "moucha"
   },
   {
     "nodeId": 7445,
@@ -125,7 +132,8 @@
     "name_ko": "장수말벌",
     "name_de": "Hornisse",
     "name_uk": "шершень",
-    "name_tr": "eşek arısı"
+    "name_tr": "eşek arısı",
+    "name_cs": "sršeň"
   },
   {
     "nodeId": 7460,
@@ -141,7 +149,8 @@
     "name_ko": "꿀벌",
     "name_de": "Honigbiene",
     "name_uk": "бджола",
-    "name_tr": "bal arısı"
+    "name_tr": "bal arısı",
+    "name_cs": "včela"
   },
   {
     "nodeId": 7604,
@@ -157,7 +166,8 @@
     "name_ko": "불가사리",
     "name_de": "Seestern",
     "name_uk": "морська зірка",
-    "name_tr": "deniz yıldızı"
+    "name_tr": "deniz yıldızı",
+    "name_cs": "hvězdice"
   },
   {
     "nodeId": 7957,
@@ -173,7 +183,8 @@
     "name_ko": "금붕어",
     "name_de": "Goldfisch",
     "name_uk": "золота рибка",
-    "name_tr": "japon balığı"
+    "name_tr": "japon balığı",
+    "name_cs": "karas zlatý"
   },
   {
     "nodeId": 7962,
@@ -189,7 +200,8 @@
     "name_ko": "잉어",
     "name_de": "Karpfen",
     "name_uk": "короп",
-    "name_tr": "sazan balığı"
+    "name_tr": "sazan balığı",
+    "name_cs": "kapr"
   },
   {
     "nodeId": 7998,
@@ -205,7 +217,8 @@
     "name_ko": "찬넬메기",
     "name_de": "Katzenwels",
     "name_uk": "сом",
-    "name_tr": "kedi balığı"
+    "name_tr": "kedi balığı",
+    "name_cs": "sumec"
   },
   {
     "nodeId": 8022,
@@ -221,7 +234,8 @@
     "name_ko": "무지개송어",
     "name_de": "Regenbogenforelle",
     "name_uk": "форель",
-    "name_tr": "alabalık"
+    "name_tr": "alabalık",
+    "name_cs": "pstruh"
   },
   {
     "nodeId": 8030,
@@ -237,7 +251,8 @@
     "name_ko": "연어",
     "name_de": "Lachs",
     "name_uk": "лосось",
-    "name_tr": "somon balığı"
+    "name_tr": "somon balığı",
+    "name_cs": "losos"
   },
   {
     "nodeId": 8049,
@@ -253,7 +268,8 @@
     "name_ko": "대구",
     "name_de": "Kabeljau",
     "name_uk": "тріска",
-    "name_tr": "atlantik morinası"
+    "name_tr": "atlantik morinası",
+    "name_cs": "treska"
   },
   {
     "nodeId": 8245,
@@ -269,7 +285,8 @@
     "name_ko": "황새치",
     "name_de": "Schwertfisch",
     "name_uk": "риба-меч",
-    "name_tr": "kılıç balığı"
+    "name_tr": "kılıç balığı",
+    "name_cs": "mečoun"
   },
   {
     "nodeId": 8296,
@@ -285,7 +302,8 @@
     "name_ko": "아홀로틀",
     "name_de": "Axolotl",
     "name_uk": "аксолотль",
-    "name_tr": "su semenderi"
+    "name_tr": "su semenderi",
+    "name_cs": "axolotl"
   },
   {
     "nodeId": 8384,
@@ -301,7 +319,8 @@
     "name_ko": "두꺼비",
     "name_de": "Kröte",
     "name_uk": "жаба",
-    "name_tr": "siğilli kurbağa"
+    "name_tr": "siğilli kurbağa",
+    "name_cs": "ropucha"
   },
   {
     "nodeId": 8400,
