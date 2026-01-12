@@ -36,7 +36,7 @@
       },
       "game": "Metaflora",
       "mystery": { "singular": "tajemství", "plural": "tajemství" },
-      "menagerie": "zahrada"
+      "menagerie": "zahrady"
     },
     "keywords": {
       "remaining": "zbývající",
@@ -133,9 +133,9 @@
     },
     "practice": {
       "0": "Cvičení",
-      "1": "Hrajte neomezené kola {{game}}!",
+      "1": "Hrajte neomezená kola {{game}}!",
       "2": "Nové cvičení",
-      "3": "Pokračovat v cvičení"
+      "3": "Pokračovat ve cvičení"
     },
     "links": {
       "0": "Odkazy",
@@ -159,12 +159,12 @@
         "a": "{{kingdom.generic}} v {{game}} byly vybrány na základě toho, jak jsou lidem známé, a také pro šíři druhů, které by hru udělaly zajímavější."
       },
       "2": {
-        "q": "Hra je špatně! Wikipedia má pro jeden z {{kingdom.generic}} jiné klasifikace.",
+        "q": "Hra je špatně! Wikipedie má pro jeden z {{kingdom.generic}} jiné klasifikace.",
         "a": "To je možné. Klasifikace použité ve hře jsou založeny na taxonomii NCBI, která je nejpoužívanější taxonomií pro zvířata. Není to však jediná taxonomie. Taxonomie Wikipedie je také široce používána a je možné, že se obě taxonomie neshodují na klasifikaci druhu."
       },
       "3": {
         "q": "Proč ve hře není třída \"Reptile\" nebo \"Reptilia\"?",
-        "a": "Zatímco některé datové sady, jako je Wikipedia, používají třídu Reptilia, taxonomie NCBI ne. Místo toho taxonomie NCBI používá třídu Sauropsida, která zahrnuje všechny plazy a ptáky. To je proto, že některá zvířata běžně označovaná jako plazi mají více společného s ptáky než s jinými plazy. Například krokodýli jsou blíže příbuzní ptákům než ještěrkám."
+        "a": "Zatímco některé datové sady, jako je Wikipedie, používají třídu Reptilia, taxonomie NCBI ne. Místo toho taxonomie NCBI používá třídu Sauropsida, která zahrnuje všechny plazy a ptáky. To je proto, že některá zvířata běžně označovaná jako plazi mají více společného s ptáky než s jinými plazy. Například krokodýli jsou blíže příbuzní ptákům než ještěrkám."
       },
       "4": {
         "q": "Proč je možné odhadnout \"domácí kočku\", ale ne \"domácího psa\"?",
