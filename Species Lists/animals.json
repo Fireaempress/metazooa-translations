@@ -1341,7 +1341,8 @@
     "name_ko": "호저",
     "name_de": "Stachelschwein",
     "name_uk": "дикобраз",
-    "name_tr": "oklu kirpi"
+    "name_tr": "oklu kirpi",
+    "name_cs": "dikobraz"
   },
   {
     "nodeId": 12983,
@@ -1357,7 +1358,8 @@
     "name_ko": "코카투",
     "name_de": "Kakadu",
     "name_uk": "какаду",
-    "name_tr": "kakadu"
+    "name_tr": "kakadu",
+    "name_cs": "papoušek kakadu"
   },
   {
     "nodeId": 13037,
@@ -1373,7 +1375,8 @@
     "name_ko": "제왕나비",
     "name_de": "Monarchfalter",
     "name_uk": "метелик монарх",
-    "name_tr": "kral kelebeği"
+    "name_tr": "kral kelebeği",
+    "name_cs": "monarcha stěhovavý"
   },
   {
     "nodeId": 13125,
@@ -1389,7 +1392,8 @@
     "name_ko": "스라소니",
     "name_de": "Luchs",
     "name_uk": "рись",
-    "name_tr": "bayağı vaşak"
+    "name_tr": "bayağı vaşak",
+    "name_cs": "rys ostrovid"
   },
   {
     "nodeId": 13180,
@@ -1405,7 +1409,8 @@
     "name_ko": "왕관앵무",
     "name_de": "Nymphensittich",
     "name_uk": "корелла",
-    "name_tr": "sultan papağanı"
+    "name_tr": "sultan papağanı",
+    "name_cs": "korela chocholatá"
   },
   {
     "nodeId": 13397,
@@ -1421,7 +1426,8 @@
     "name_ko": "백상아리",
     "name_de": "Weißer Hai",
     "name_uk": "біла акула",
-    "name_tr": "büyük beyaz köpek balığı"
+    "name_tr": "büyük beyaz köpek balığı",
+    "name_cs": "žralok bílý"
   },
   {
     "nodeId": 13686,
@@ -1437,7 +1443,8 @@
     "name_ko": "붉은불개미",
     "name_de": "Feuerameise",
     "name_uk": "вогняна мураха",
-    "name_tr": "ateş karıncası"
+    "name_tr": "ateş karıncası",
+    "name_cs": "ohnivý mravenec"
   },
   {
     "nodeId": 27675,
@@ -1453,7 +1460,8 @@
     "name_ko": "나무늘보",
     "name_de": "Zweifingerfaultier",
     "name_uk": "двопалий лінивець",
-    "name_tr": "tembel hayvan"
+    "name_tr": "tembel hayvan",
+    "name_cs": "lenochod dvouprstý"
   },
   {
     "nodeId": 27794,
@@ -1469,7 +1477,9 @@
     "name_ko": "장수거북",
     "name_de": "Lederschildkröte",
     "name_uk": "морська черепаха",
-    "name_tr": "deniz kaplumbağası"
+    "name_tr": "deniz kaplumbağası",
+    "name_cs": "kožatka velká"
+    
   },
   {
     "nodeId": 28701,
@@ -1486,6 +1496,7 @@
     "name_de": "Papageitaucher",
     "name_uk": "тупик",
     "name_tr": "deniz papağanı"
+    "name_cs": "papuchalk"
   },
   {
     "nodeId": 28727,
@@ -1501,7 +1512,8 @@
     "name_ko": "파랑어치",
     "name_de": "Blauhäher",
     "name_uk": "сойка",
-    "name_tr": "alakarga"
+    "name_tr": "alakarga",
+    "name_cs": "sojka"
   },
   {
     "nodeId": 29073,
@@ -1517,7 +1529,8 @@
     "name_ko": "북극곰",
     "name_de": "Eisbär",
     "name_uk": "полярний ведмідь",
-    "name_tr": "kutup ayısı"
+    "name_tr": "kutup ayısı",
+    "name_cs": "medvěd lední"
   },
   {
     "nodeId": 29139,
@@ -1533,7 +1546,8 @@
     "name_ko": "웜뱃",
     "name_de": "Wombat",
     "name_uk": "вомбат",
-    "name_tr": "vombat"
+    "name_tr": "vombat",
+    "name_cs": "vombat"
   },
   {
     "nodeId": 29159,
@@ -1549,7 +1563,8 @@
     "name_ko": "굴",
     "name_de": "Auster",
     "name_uk": "устриця",
-    "name_tr": "istiridye"
+    "name_tr": "istiridye",
+    "name_cs": "ústřice"
   },
   {
     "nodeId": 30213,
@@ -1565,7 +1580,8 @@
     "name_ko": "말벌",
     "name_de": "Wespe",
     "name_uk": "оса",
-    "name_tr": "yaban arısı"
+    "name_tr": "yaban arısı",
+    "name_cs": "vosa"
   },
   {
     "nodeId": 30538,
@@ -1581,7 +1597,8 @@
     "name_ko": "알파카",
     "name_de": "Alpaka",
     "name_uk": "альпака",
-    "name_tr": "alpaka"
+    "name_tr": "alpaka",
+    "name_cs": "alpaka"
   },
   {
     "nodeId": 30548,
@@ -1597,7 +1614,8 @@
     "name_ko": "스컹크",
     "name_de": "Stinktier",
     "name_uk": "скунс",
-    "name_tr": "kokarca"
+    "name_tr": "kokarca",
+    "name_cs": "skunk"
   },
   {
     "nodeId": 30554,
@@ -1613,7 +1631,8 @@
     "name_ko": "오소리",
     "name_de": "Dachs",
     "name_uk": "борсук",
-    "name_tr": "porsuk"
+    "name_tr": "porsuk",
+    "name_cs": "jezevec"
   },
   {
     "nodeId": 32536,
@@ -1629,7 +1648,8 @@
     "name_ko": "치타",
     "name_de": "Gepard",
     "name_uk": "гепард",
-    "name_tr": "çita"
+    "name_tr": "çita",
+    "name_cs": "gepard"
   },
   {
     "nodeId": 32538,
@@ -1645,7 +1665,8 @@
     "name_ko": "오셀롯",
     "name_de": "Ozelot",
     "name_uk": "оцелот",
-    "name_tr": "oselo"
+    "name_tr": "oselo",
+    "name_cs": "ocelot"
   },
   {
     "nodeId": 34882,
@@ -1661,7 +1682,8 @@
     "name_ko": "해달",
     "name_de": "Seeotter",
     "name_uk": "видра",
-    "name_tr": "deniz samuru"
+    "name_tr": "deniz samuru",
+    "name_cs": "vydra mořská"
   },
   {
     "nodeId": 36312,
@@ -1677,7 +1699,9 @@
     "name_ko": "도룡뇽",
     "name_de": "Salamander",
     "name_uk": "саламандра",
-    "name_tr": "semender"
+    "name_tr": "semender",
+    "name_cs": "mlok"
+    
   },
   {
     "nodeId": 37032,
@@ -1693,7 +1717,8 @@
     "name_ko": "미어캣",
     "name_de": "Erdmännchen",
     "name_uk": "сурикат",
-    "name_tr": "mirket"
+    "name_tr": "mirket",
+    "name_cs": "surikata"
   },
   {
     "nodeId": 37189,
@@ -1709,7 +1734,8 @@
     "name_ko": "검은영양",
     "name_de": "Antilope",
     "name_uk": "антилопа",
-    "name_tr": "dev samur antilobu"
+    "name_tr": "dev samur antilobu",
+    "name_cs": "antilopa"
   },
   {
     "nodeId": 37295,
@@ -1725,7 +1751,8 @@
     "name_ko": "카푸친원숭이",
     "name_de": "Kapuzineraffe",
     "name_uk": "капуцин",
-    "name_tr": "kapuçin maymunu"
+    "name_tr": "kapuçin maymunu",
+    "name_cs": "malpa"
   },
   {
     "nodeId": 37610,
@@ -1741,7 +1768,8 @@
     "name_ko": "미국 지빠귀",
     "name_de": "Rotkehlchen",
     "name_uk": "малиновка",
-    "name_tr": "kızılgerdan"
+    "name_tr": "kızılgerdan",
+    "name_cs": "červenka obecná"
   },
   {
     "nodeId": 37751,
@@ -1757,7 +1785,8 @@
     "name_ko": "가젤",
     "name_de": "Gazelle",
     "name_uk": "газель",
-    "name_tr": "gazel"
+    "name_tr": "gazel",
+    "name_cs": "gazela"
   },
   {
     "nodeId": 38626,
@@ -1773,7 +1802,8 @@
     "name_ko": "코알라",
     "name_de": "Koala",
     "name_uk": "коала",
-    "name_tr": "koala"
+    "name_tr": "koala",
+    "name_cs": "koala"
   },
   {
     "nodeId": 40151,
@@ -1789,7 +1819,8 @@
     "name_ko": "일각고래",
     "name_de": "Narwal",
     "name_uk": "нарвал",
-    "name_tr": "narval"
+    "name_tr": "narval",
+    "name_cs": "narval"
   },
   {
     "nodeId": 42514,
@@ -1805,7 +1836,8 @@
     "name_ko": "피라냐",
     "name_de": "Piranha",
     "name_uk": "піранья",
-    "name_tr": "pirana"
+    "name_tr": "pirana",
+    "name_cs": "piraňa"
   },
   {
     "nodeId": 48849,
@@ -1821,7 +1853,8 @@
     "name_ko": "참새",
     "name_de": "Spatz",
     "name_uk": "горобець",
-    "name_tr": "serçe"
+    "name_tr": "serçe",
+    "name_cs": "vrabec"
   },
   {
     "nodeId": 9375,
@@ -1837,7 +1870,8 @@
     "name_ko": "두더지",
     "name_de": "Maulwurf",
     "name_uk": "крiт",
-    "name_tr": "köstebek"
+    "name_tr": "köstebek",
+    "name_cs": "krtek"
   },
   {
     "nodeId": 51338,
@@ -1853,7 +1887,8 @@
     "name_ko": "비버",
     "name_de": "Biber",
     "name_uk": "бобер",
-    "name_tr": "kunduz"
+    "name_tr": "kunduz",
+    "name_cs": "bobr"
   },
   {
     "nodeId": 51908,
@@ -1869,7 +1904,8 @@
     "name_ko": "코뉴어 앵무새",
     "name_de": "Sittich",
     "name_uk": "папуга",
-    "name_tr": "muhabbet kuşu"
+    "name_tr": "muhabbet kuşu",
+    "name_cs": "andulka"
   },
   {
     "nodeId": 51949,
@@ -1885,7 +1921,8 @@
     "name_ko": "독화살개구리",
     "name_de": "Pfeilgiftfrosch",
     "name_uk": "отруйна жаба",
-    "name_tr": "zehirli ok kurbağası"
+    "name_tr": "zehirli ok kurbağası",
+    "name_cs": "pralesnička ohnivá"
   },
   {
     "nodeId": 52644,
@@ -1901,7 +1938,8 @@
     "name_ko": "흰머리수리",
     "name_de": "Weißkopfseeadler",
     "name_uk": "білоголовий орлан",
-    "name_tr": "kel kartal"
+    "name_tr": "kel kartal",
+    "name_cs": "orel"
   },
   {
     "nodeId": 3370370,
@@ -1917,7 +1955,8 @@
     "name_ko": "족제비",
     "name_de": "Wiesel",
     "name_uk": "ласка",
-    "name_tr": "uzun kuyruklu gelincik"
+    "name_tr": "uzun kuyruklu gelincik",
+    "name_cs": "lasička"
   },
   {
     "nodeId": 56313,
@@ -1934,6 +1973,7 @@
     "name_de": "Schleiereule",
     "name_uk": "сова",
     "name_tr": "peçeli baykuş"
+    "name_cs": "sova pálená"
   },
   {
     "nodeId": 56781,
@@ -1949,7 +1989,8 @@
     "name_ko": "큰까마귀",
     "name_de": "Rabe",
     "name_uk": "ворон",
-    "name_tr": "kuzgun"
+    "name_tr": "kuzgun",
+    "name_cs": "krkavec"
   },
   {
     "nodeId": 57247,
@@ -1965,7 +2006,9 @@
     "name_ko": "회색앵무",
     "name_de": "Graupapagei",
     "name_uk": "сірий папуга",
-    "name_tr": "gri papağan"
+    "name_tr": "gri papağan",
+    "name_cs": "papoušek šedý"
+    
   },
   {
     "nodeId": 60713,
@@ -1981,7 +2024,8 @@
     "name_ko": "흉내지빠귀",
     "name_de": "Spottdrossel",
     "name_uk": "пересмішник",
-    "name_tr": "alaycı kuş"
+    "name_tr": "alaycı kuş",
+    "name_cs": "drozd"
   },
   {
     "nodeId": 61384,
@@ -1997,7 +2041,8 @@
     "name_ko": "붉은스라소니",
     "name_de": "Rotluchs",
     "name_uk": "руда рись",
-    "name_tr": "doru vaşak"
+    "name_tr": "doru vaşak",
+    "name_cs": "rys červený"
   },
   {
     "nodeId": 9700,
@@ -2013,7 +2058,8 @@
     "name_ko": "몽구스",
     "name_de": "Mungo",
     "name_uk": "мангуст",
-    "name_tr": "firavun faresi"
+    "name_tr": "firavun faresi",
+    "name_cs": "promyka"
   },
   {
     "nodeId": 61853,
@@ -2029,7 +2075,8 @@
     "name_ko": "긴팔원숭이",
     "name_de": "Gibbon",
     "name_uk": "гібон",
-    "name_tr": "gibon"
+    "name_tr": "gibon",
+    "name_cs": "gibon"
   },
   {
     "nodeId": 76717,
@@ -2045,7 +2092,8 @@
     "name_ko": "수달",
     "name_de": "Flussotter",
     "name_uk": "річкова видра",
-    "name_tr": "su samuru"
+    "name_tr": "su samuru",
+    "name_cs": "vydra říční" 
   },
   {
     "nodeId": 79627,
@@ -2061,7 +2109,8 @@
     "name_ko": "마카로니펭귄",
     "name_de": "Goldschopfpinguin",
     "name_uk": "макаронний пінгвін",
-    "name_tr": "makaroni pengueni"
+    "name_tr": "makaroni pengueni",
+    "name_cs": "tučňák žlutorohý"
   },
   {
     "nodeId": 84074,
@@ -2077,7 +2126,8 @@
     "name_ko": "개미핥기",
     "name_de": "Zwergameisenbär",
     "name_uk": "мурахоїд",
-    "name_tr": "karıncayiyen"
+    "name_tr": "karıncayiyen",
+    "name_cs": "mravenečník"
   },
   {
     "nodeId": 85066,
@@ -2093,7 +2143,8 @@
     "name_ko": "까마귀",
     "name_de": "Krähe",
     "name_uk": "ворона",
-    "name_tr": "karga"
+    "name_tr": "karga",
+    "name_cs": "vrána"
   },
   {
     "nodeId": 89248,
@@ -2109,7 +2160,8 @@
     "name_ko": "얼룩말",
     "name_de": "Zebra",
     "name_uk": "зебра",
-    "name_tr": "zebra"
+    "name_tr": "zebra",
+    "name_cs": "zebra"
   },
   {
     "nodeId": 89462,
@@ -2125,7 +2177,8 @@
     "name_ko": "물소",
     "name_de": "Wasserbüffel",
     "name_uk": "буйвол",
-    "name_tr": "Asya mandası"
+    "name_tr": "Asya mandası",
+    "name_cs": "buvol domácí"
   },
   {
     "nodeId": 30640,
@@ -2141,7 +2194,8 @@
     "name_ko": "청설모",
     "name_de": "Eichhörnchen",
     "name_uk": "білка",
-    "name_tr": "sincap"
+    "name_tr": "sincap",
+    "name_cs": "veverka"
   },
   {
     "nodeId": 254707,
@@ -2157,7 +2211,8 @@
     "name_ko": "날다람쥐",
     "name_de": "Gleithörnchen",
     "name_uk": "білка-летяга",
-    "name_tr": "uçan sincap"
+    "name_tr": "uçan sincap",
+    "name_cs": "poletucha"
   },
   {
     "nodeId": 100937,
@@ -2253,7 +2308,8 @@
     "name_ko": "상자거북",
     "name_de": "Dosenschildkröte",
     "name_uk": "коробчата черепаха",
-    "name_tr": "kutu kaplumbağası"
+    "name_tr": "kutu kaplumbağası",
+    "name_cs": "želva karolínská"
   },
   {
     "nodeId": 161767,
@@ -2269,7 +2325,8 @@
     "name_ko": "흰동가리",
     "name_de": "Clownfisch",
     "name_uk": "риба-клоун",
-    "name_tr": "palyaço balığı"
+    "name_tr": "palyaço balığı",
+    
   },
   {
     "nodeId": 176946,
@@ -3519,7 +3576,8 @@
     "name_ko": "늑대거북",
     "name_de": "Schnappschildkröte",
     "name_uk": "кайманова черепаха",
-    "name_tr": "yılansı kapan kaplumbağa"
+    "name_tr": "yılansı kapan kaplumbağa",
+    "name_cs": "kajmanka dravá"
   },
   {
     "nodeId": 8730,
