@@ -979,4 +979,19 @@
   { "language": "de", "name": "perlboot", "alts": ["nautilus"] },
   { "language": "en", "name": "hare", "alts": ["jackrabbit"] },
   { "language": "en", "name": "nematode", "alts": ["nematode worm"] }
+
+  { "language": "de", "name": "perlboot", "alts": ["nautilus"] },
+  { "language": "en", "name": "hare", "alts": ["jackrabbit"] },
+  { "language": "en", "name": "nematode", "alts": ["nematode worm"] },
+
+  { "language": "cs", "name": "bourec morušový", "alts": ["hedvábník"] },
+  { "language": "cs", "name": "octomilka", "alts": ["muška"] },
+  { "language": "cs", "name": "karas zlatý", "alts": ["zlatá rybka"] },
+  { "language": "cs", "name": "axolotl", "alts": ["vodní dráček","chodící mlok"] },
+  { "language": "cs", "name": "skokan", "alts": ["žába"] },
+  { "language": "cs", "name": "vodnář", "alts": ["mořský had"] },
+  { "language": "cs", "name": "kur", "alts": ["slepice"] },
+  { "language": "cs", "name": "upír obecný", "alts": ["netopýr (upír)"] },
+  { "language": "cs", "name": "kaloň", "alts": ["netopýr (kaloň)"] },
+  { "language": "cs", "name": "tur", "alts": ["kráva","býk"] }
 ]
