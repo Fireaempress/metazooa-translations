@@ -3045,7 +3045,8 @@
     "name_ko": "콘도르",
     "name_de": "Andenkondor",
     "name_uk": "кондор",
-    "name_tr": "and kondoru"
+    "name_tr": "and kondoru",
+    "name_cs": "kondor"
   },
   {
     "nodeId": 435638,
@@ -3061,7 +3062,8 @@
     "name_ko": "플라밍고",
     "name_de": "Rosaflamingo",
     "name_uk": "фламінго",
-    "name_tr": "flamingo"
+    "name_tr": "flamingo",
+    "name_cs": "plameňák"
   },
   {
     "nodeId": 9995,
@@ -3077,7 +3079,8 @@
     "name_ko": "마멋",
     "name_de": "Murmel",
     "name_uk": "бабак",
-    "name_tr": "dağ sıçanı"
+    "name_tr": "dağ sıçanı",
+    "name_cs": "svišť"
   },
   {
     "nodeId": 8005,
@@ -3093,7 +3096,8 @@
     "name_ko": "전기뱀장어",
     "name_de": "Elektrischer Aal",
     "name_uk": "електричний вугор",
-    "name_tr": "elektrikli yılan balığı"
+    "name_tr": "elektrikli yılan balığı",
+    "name_cs": "Paúhoř elektrický"
   },
   {
     "nodeId": 8624,
@@ -3109,7 +3113,8 @@
     "name_ko": "블랙맘바",
     "name_de": "Schwarze Mamba",
     "name_uk": "чорна мамба",
-    "name_tr": "kara mamba"
+    "name_tr": "kara mamba",
+    "name_cs": "mamba černá"
   },
   {
     "nodeId": 61221,
@@ -3125,7 +3130,8 @@
     "name_ko": "코모도왕도마뱀",
     "name_de": "Komodowaran",
     "name_uk": "комодський варан",
-    "name_tr": "komodo ejderi"
+    "name_tr": "komodo ejderi",
+    "name_cs": "varan komodský"
   },
   {
     "nodeId": 9305,
@@ -3141,7 +3147,8 @@
     "name_ko": "태즈메이니아주머니너구리",
     "name_de": "Beutelteufel",
     "name_uk": "тасманійський диявол",
-    "name_tr": "tazmanya canavarı"
+    "name_tr": "tazmanya canavarı",
+    "name_cs": "ďábel medvědovitý"
   },
   {
     "nodeId": 9447,
@@ -3157,7 +3164,8 @@
     "name_ko": "여우원숭이",
     "name_de": "Katta",
     "name_uk": "лемур",
-    "name_tr": "lemur"
+    "name_tr": "lemur",
+    "name_cs": "lemur"
   },
   {
     "nodeId": 7010,
@@ -3173,7 +3181,8 @@
     "name_ko": "사막메뚜기",
     "name_de": "Wüstenheuschrecke",
     "name_uk": "сарана",
-    "name_tr": "çöl çekirgesi"
+    "name_tr": "çöl çekirgesi",
+    "name_cs": "saranče"
   },
   {
     "nodeId": 7009,
@@ -3189,7 +3198,8 @@
     "name_ko": "미국새메뚜기",
     "name_de": "Gewöhnliche Grashüpfer",
     "name_uk": "коник-стрибунець",
-    "name_tr": "çekirge"
+    "name_tr": "çekirge",
+    "name_cs": "kobylka"
   },
   {
     "nodeId": 58607,
@@ -3205,7 +3215,8 @@
     "name_ko": "귀뚜라미",
     "name_de": "Heuschrecke",
     "name_uk": "цвіркун",
-    "name_tr": "cırcırböceği"
+    "name_tr": "cırcırböceği",
+    "name_cs": "cvrček"
   },
   {
     "nodeId": 1574408,
@@ -3221,7 +3232,8 @@
     "name_ko": "와피티사슴",
     "name_de": "Wapiti",
     "name_uk": "вапіті",
-    "name_tr": "geyik"
+    "name_tr": "geyik",
+    "name_cs": "jelen wapiti"
   },
   {
     "nodeId": 9870,
