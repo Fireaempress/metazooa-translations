@@ -993,5 +993,7 @@
   { "language": "cs", "name": "kur", "alts": ["slepice"] },
   { "language": "cs", "name": "upír obecný", "alts": ["netopýr (upír)"] },
   { "language": "cs", "name": "kaloň", "alts": ["netopýr (kaloň)"] },
-  { "language": "cs", "name": "tur", "alts": ["kráva","býk"] }
+  { "language": "cs", "name": "tur", "alts": ["kráva","býk"] },
+  { "language": "cs", "name": "brusnice vlochyně", "alts": ["borůvka"] }
+  
 ]
