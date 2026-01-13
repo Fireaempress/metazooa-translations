@@ -983,7 +983,6 @@
   { "language": "de", "name": "perlboot", "alts": ["nautilus"] },
   { "language": "en", "name": "hare", "alts": ["jackrabbit"] },
   { "language": "en", "name": "nematode", "alts": ["nematode worm"] },
-
   { "language": "cs", "name": "bourec morušový", "alts": ["hedvábník"] },
   { "language": "cs", "name": "octomilka", "alts": ["muška"] },
   { "language": "cs", "name": "karas zlatý", "alts": ["zlatá rybka"] },
@@ -995,6 +994,27 @@
   { "language": "cs", "name": "kaloň", "alts": ["netopýr (kaloň)"] },
   { "language": "cs", "name": "tur", "alts": ["kráva","býk"] },
   { "language": "cs", "name": "brusnice vlochyně", "alts": ["borůvka"] },
-  { "language": "cs", "name": "mateřídouška obecná", "alts": ["tymián"] }
+  { "language": "cs", "name": "mateřídouška obecná", "alts": ["tymián"] },
+  { "language": "cs", "name": "monarcha stěhovavý", "alts": ["motýl"] },
+  { "language": "cs", "name": "korela chocholatá", "alts": ["papoušek korela"] },
+  { "language": "cs", "name": "kožatka velká", "alts": ["želva kožatka"] },
+  { "language": "cs", "name": "kajmanka dravá", "alts": ["želva kajmanka"] },
+  { "language": "cs", "name": "vydra mořská", "alts": ["kalan"] },
+  { "language": "cs", "name": "malpa", "alts": ["opice malpa"] },
+  { "language": "cs", "name": "krtek", "alts": ["krteček"] },
+  { "language": "cs", "name": "pralesnička ohnivá", "alts": ["jedovatá žába"] },
+  { "language": "cs", "name": "promyka", "alts": ["mangusta"] },
+  { "language": "cs", "name": "poletucha", "alts": ["létající veverka"] },
+  { "language": "cs", "name": "hýl obecný", "alts": ["pěnkava"] },
+  { "language": "cs", "name": "sklípkan", "alts": ["tarantule"] },
+  { "language": "cs", "name": "maloočka", "alts": ["pavouk maloočka"] },
+  { "language": "cs", "name": "snovačka jedovatá", "alts": ["černá vdova"] },
+  { "language": "cs", "name": "talířovka ušatá", "alts": ["medúza"] },
+  { "language": "cs", "name": "dížovka jedlá", "alts": ["mořská škeble"] },
+  { "language": "cs", "name": "krunýřovka", "alts": ["kril"] },
+  { "language": "cs", "name": "hlemýžď", "alts": ["šnek"] },
+  { "language": "cs", "name": "ježovka severní", "alts": ["mořský ježek"] },
+  { "language": "cs", "name": "měchýřovka portugalská", "alts": ["portugalská galéra"] },
+  { "language": "cs", "name": "vruboun posvátný", "alts": ["skarab"] }
   
 ]
